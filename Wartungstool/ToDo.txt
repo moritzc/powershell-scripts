@@ -1,0 +1,14 @@
+Alles als Funktionen schreiben und aufrufen! -> Autorun basics
+
+Report Generator -> Name eingeben, auslesen und Report generieren. Drop-Down menü etc. unnötig
+
+Buttons Disablen wenn gerade gearbeitet wird..
+
+Server2012 last Updates stimmen nicht?
+
+Exchange Logs/data volumes
+
+
+DomainCheck um Fehler zu vermeiden, wenn Server nicht in Domäne
+
+SizeRemaining für Server 2022 unbekannt?
