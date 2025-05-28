@@ -7,8 +7,6 @@ Im falle von Fehlermeldungen Stimmt die Zählung womöglich nicht mehr! Für nic
 
 APIKey in APICall.ps1 kann jederzeit ausgetauscht werden. Aktueller Account mit 5000API Checks/Tag
 
-RemoteIP.ps1.old kann immer nur eine IP pro MSG Datei finden.
-
 ProcessUniquesorted.ps1 führt nur die zweite Hälfte des Skripts durch.
 
 ---------------------
